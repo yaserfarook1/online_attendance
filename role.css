@@ -1,0 +1,50 @@
+body{
+    background-color: khaki;
+    background-position: center;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: rgb(141, 113, 37);
+    font-style:oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ h3{
+    border: 1px solid white;
+    width: 70px;
+    height: 100px;
+    padding: 50px;
+    padding-bottom: -100px;
+    margin-left: 550px;
+    border-radius: 20px;
+    background: coral;
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(138, 14, 14);
+}
+
+.rdb{
+    text-decoration:none ;
+}
+
+.teacher{
+    width: 90px;
+   
+    position: relative;
+    bottom: 8rem;
+     left:37.2rem;
+}
+
+.student{
+ width: 90px;
+ position: relative;
+ bottom: 28rem;
+ left: 37.2rem;
+}
+.te{
+    text-decoration: none;
+}
+
+
